@@ -1,5 +1,5 @@
 # First_windows_application
-First windows simple application which prints  when clicked on submit button. Here I learnt the application of c++ in creating projects , and to customise GUI . It helped me to explore .Net library and also to produce .exe file.
+I developed my initial application on the Windows platform, which outputs a print command upon the click of a submit button. This project provided me with practical experience in utilizing C++ for project creation and GUI customization. It served as an opportunity to delve into the .NET library and understand the process of generating .exe files. This hands-on experience was instrumental in enhancing my technical skills and understanding of application development.
 
 Here are some screenshots of the OUTPUT : 
 
