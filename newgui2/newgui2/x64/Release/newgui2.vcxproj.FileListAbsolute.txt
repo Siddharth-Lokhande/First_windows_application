@@ -1,0 +1,3 @@
+D:\programming\windows gui\newgui2\newgui2\x64\Release\newgui2.vcxproj.AssemblyReference.cache
+D:\programming\windows gui\newgui2\newgui2\x64\Release\newgui2.MainForm.resources
+D:\programming\windows gui\newgui2\newgui2\x64\Release\newgui2.vcxproj.GenerateResource.cache
